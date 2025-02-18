@@ -6,7 +6,7 @@ Simple code, just input your variables at the start of the program and after Fri
 
 ## C-Odd Digits
 
-The program takes an input and decrements until both place value numbers are odd.
+The program takes an input between 10 and 99 (inclusive) and decrements until both place value numbers are odd.
 
 
 

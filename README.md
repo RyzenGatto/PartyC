@@ -9,4 +9,6 @@ Simple code, just input your variables at the start of the program and after Fri
 The program takes an input and decrements until both place value numbers are odd.
 
 
+
+### Notes
 MIT license, use as you wish.

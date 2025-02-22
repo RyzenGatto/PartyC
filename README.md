@@ -8,7 +8,9 @@ Simple code, just input your variables at the start of the program and after Fri
 
 The program takes an input between 10 and 99 (inclusive) and decrements until both place value numbers are odd.
 
+## CZipCodes
 
+This program takes a zipcode as an input (and only a 5 digit zip code) and converts the digits into English text without the use of strings or the string library.
 
 ### Notes
 MIT license, use as you wish.

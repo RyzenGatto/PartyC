@@ -12,5 +12,9 @@ The program takes an input between 10 and 99 (inclusive) and decrements until bo
 
 This program takes a zipcode as an input (and only a 5 digit zip code) and converts the digits into English text without the use of strings or the string library.
 
+## CRoster
+
+This program takes and manages the jersey numbers and ratings of X number of players, defined at the of the program.
+
 ### Notes
 MIT license, use as you wish.
